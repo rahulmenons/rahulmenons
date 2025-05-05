@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm [Your Name]
 
-<!--
-**rahulmenons/rahulmenons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at **Rajagiri School of Engineering & Technology**  
+💻 Passionate about full-stack development, mobile apps & smart tech
 
-Here are some ideas to get you started:
+## 🚀 Currently Exploring
+- 🌐 Web dev with **HTML, CSS, JavaScript & Node.js**
+- 📱 App development using **Flutter**
+- 🐍 Python for **automation & scripting**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects & Interests
+- Building responsive websites & real-time applications  
+- Experimenting with computer vision and smart city solutions  
+- Writing clean, efficient code and learning best practices  
