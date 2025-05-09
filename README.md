@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm Rahul Rathishkumar Menon
 
 🎓 I'm a student at **Rajagiri School of Engineering & Technology**  
 💻 Passionate about full-stack development, mobile apps & smart tech
