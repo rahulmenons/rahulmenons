@@ -11,4 +11,11 @@
 ## 🛠️ Projects & Interests
 - Building responsive websites & real-time applications  
 - Experimenting with computer vision and smart city solutions  
-- Writing clean, efficient code and learning best practices  
+- Writing clean, efficient code and learning best practices
+
+- <!-- GitHub Stats Card -->
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+
+<!-- Top Languages Card -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+
