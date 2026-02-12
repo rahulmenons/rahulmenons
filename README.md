@@ -13,7 +13,5 @@
 - Experimenting with computer vision and smart city solutions  
 - Writing clean, efficient code and learning best practices
 
-<!-- GitHub Stats Card -->
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmenons&show_icons=true&theme=dark)
 
 
