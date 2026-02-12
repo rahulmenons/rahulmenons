@@ -14,5 +14,6 @@
 - Writing clean, efficient code and learning best practices
 
 <!-- GitHub Stats Card -->
-![Rahuls's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmenons&show_icons=true&theme=github_dark_dimmed)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulmenons&show_icons=true&theme=dark)
+
 
