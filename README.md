@@ -4,7 +4,7 @@
 💻 Passionate about full-stack development, mobile apps & smart tech
 
 ## 🚀 Currently Exploring
-- 🌐 Full stack Web dev with **Next.js, Node.js, PostgreSQL with REST API **
+- 🌐 Full stack Web dev with **Next.js, Node.js, PostgreSQL with REST API**
 - 📱 App development using **Flutter**
 - 🐍 Python for **automation & scripting**
 
