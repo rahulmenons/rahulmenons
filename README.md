@@ -1,15 +1,16 @@
 # Hi there 👋 I'm Rahul Rathishkumar Menon
 
 🎓 I'm an Alumni  at **Rajagiri School of Engineering & Technology**  
-💻 Passionate about full-stack development, mobile apps & smart tech
+💻 Passionate about full-stack development, mobile apps & cloud computing !
 
 ## 🚀 Currently Exploring
-- 🌐 Full stack Web dev with **Next.js, Node.js, PostgreSQL with REST API**
+- 🌐 Full stack Web dev with **Three.js WebGL and WebGPU**
 - 📱 App development using **Flutter**
-- 🐍 Python for **automation & scripting**
+- 🐍 Cloud Computing using **AWS Services**
 
 ## 🛠️ Projects & Interests
-- Building responsive websites & real-time applications    
+- Building responsive websites & real-time applications
+- Deploying efficent and useable technology that makes a meaningful difference
 - Writing clean, efficient code and learning best practices
 
 
