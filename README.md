@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Rahul Rathishkumar Menon
+# Hi there 👋 I'm Rahul Menon
 
 🎓 I'm an Alumni  at **Rajagiri School of Engineering & Technology**  
 💻 Passionate about full-stack development, mobile apps & cloud computing !
