@@ -82,12 +82,3 @@
 | [🚌 Live Bus Tracker] | Real-time bus tracking app with ETA alerts & incident reporting for drivers and passengers | Flutter · Firebase · OpenWeatherMap |
 
 ---
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmenons&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
