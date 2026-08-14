@@ -2,7 +2,7 @@
 
 # Hey, I'm Rahul Menon 👋
 
-**Software Developer · Cybersecurity Analyst · AI/ML Engineer**
+**Software Developer · AI/ML Engineer**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-4A90D9?style=for-the-badge)](https://my-portfolio-website-olive-seven.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-r-menon-883a99308/)
