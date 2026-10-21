@@ -78,7 +78,6 @@
 |---|---|---|
 | [ RAG Proposal Engine] | Enterprise AI system that automates RFP evaluation, scoring & proposal generation · **IC3SIS'26** | Python · LLaMA 3.2 · RAG · Django · PostgreSQL · Gemini |
 | [ 3D Portfolio] | Fully interactive 3D world with custom Blender models — explore my work like a game | Three.js · WebGL · GSAP · Blender |
-| [ Transaction Report Dashboard] | Full-stack analytics dashboard for transaction records & revenue insights · Built at EC-Council | Next.js · Django · REST APIs |
 | [ Live Bus Tracker] | Real-time bus tracking app with ETA alerts & incident reporting for drivers and passengers | Flutter · Firebase · OpenWeatherMap |
 
 ---
